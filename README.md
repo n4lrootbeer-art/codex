@@ -1,2 +1,4 @@
 # codex
-work in cloud
+npm install
+npm run build
+npm test
